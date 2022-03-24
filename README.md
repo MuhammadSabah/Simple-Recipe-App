@@ -1,4 +1,4 @@
-# deeplinks_chapter8
+# FoodRecipeApp
 
 A new Flutter project.
 
