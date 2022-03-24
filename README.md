@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## I created this app with the help of FlutterApprentice 2nd Edition Book.
+## I Created this app with the help of FlutterApprentice 2nd Edition Book.
 
 ## Getting Started
 
