@@ -18,7 +18,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots:
-<img src="https://github.com/MuhammadSabah/FoodRecipeApp/blob/master/Screenshots/photo_2022-03-25_12-26-05.png" width="350" height="700" /> <img src="https://github.com/MuhammadSabah/FoodRecipeApp/blob/master/Screenshots/photo_2022-03-25_12-26-20.png" width="350" height="700" /><img src="https://github.com/MuhammadSabah/FoodRecipeApp/blob/master/Screenshots/photo_2022-03-25_12-26-23.png" width="350" height="700" />
+<img src="https://github.com/MuhammadSabah/FoodRecipeApp/blob/master/Screenshots/photo_2022-03-25_12-26-05.png" width="325" height="700" /> <img src="https://github.com/MuhammadSabah/FoodRecipeApp/blob/master/Screenshots/photo_2022-03-25_12-26-20.png" width="325" height="700" /> <img src="https://github.com/MuhammadSabah/FoodRecipeApp/blob/master/Screenshots/photo_2022-03-25_12-26-23.png" width="325" height="700" />
 
 
 
