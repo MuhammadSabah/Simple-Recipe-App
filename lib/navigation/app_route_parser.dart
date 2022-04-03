@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'app_link.dart';
-
 
 class AppRouteParser extends RouteInformationParser<AppLink> {
   @override

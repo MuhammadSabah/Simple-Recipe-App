@@ -7,7 +7,6 @@ class AppRouter extends RouterDelegate<AppLink>
     with ChangeNotifier, PopNavigatorRouterDelegateMixin {
   @override
   final GlobalKey<NavigatorState> navigatorKey;
-
   final AppStateManager appStateManager;
   final GroceryManager groceryManager;
   final ProfileManager profileManager;
@@ -72,7 +71,6 @@ class AppRouter extends RouterDelegate<AppLink>
     if (!route.didPop(result)) {
       return false;
     }
-
     if (route.settings.name == AppPages.onboardingPath) {
       appStateManager.logout();
     }
@@ -80,7 +78,6 @@ class AppRouter extends RouterDelegate<AppLink>
     if (route.settings.name == AppPages.groceryItemDetails) {
       groceryManager.groceryItemTapped(-1);
     }
-
     if (route.settings.name == AppPages.profilePath) {
       profileManager.tapOnProfile(false);
     }
@@ -88,7 +85,6 @@ class AppRouter extends RouterDelegate<AppLink>
     if (route.settings.name == AppPages.raywenderlich) {
       profileManager.tapOnRaywenderlich(false);
     }
-
     return true;
   }
 

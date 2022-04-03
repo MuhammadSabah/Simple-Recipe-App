@@ -1,7 +1,6 @@
 import 'package:FoodRecipeApp/navigation/app_route_parser.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import 'app_theme.dart';
 import 'models/models.dart';
 import 'navigation/app_router.dart';

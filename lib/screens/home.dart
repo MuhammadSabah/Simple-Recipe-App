@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-
 import '../models/models.dart';
 import 'explore_screen.dart';
 import 'grocery_screen.dart';
